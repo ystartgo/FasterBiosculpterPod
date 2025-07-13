@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<Inglix.Installed_Version>已安裝版本</Inglix.Installed_Version>
+	<Inglix.Faster_Biosculpter_Pod>更快的生物塑形艙</Inglix.Faster_Biosculpter_Pod>
+	
+	<Inglix.Medic_Cycle>醫療循環</Inglix.Medic_Cycle>
+	<Inglix.Bioregeneration_Cycle>生物再生循環</Inglix.Bioregeneration_Cycle>
+	<Inglix.Age_Reversal_Cycle>逆齡循環</Inglix.Age_Reversal_Cycle>
+	<Inglix.Pleasure_Cycle>愉悅循環</Inglix.Pleasure_Cycle>
+	<Inglix.Miscellaneous_Options>其他選項</Inglix.Miscellaneous_Options>
+	<Inglix.Biotuning_Duration>生物調校持續時間</Inglix.Biotuning_Duration>
+	<Inglix.Biotuned_Speed>生物調校循環速度係數</Inglix.Biotuned_Speed>
+	<Inglix.Power_Consumption>運作電力消耗</Inglix.Power_Consumption>
+	<Inglix.Standby_Consumption>待機電力消耗</Inglix.Standby_Consumption>
+	<Inglix.Building_Cost>建造成本</Inglix.Building_Cost>
+	<Inglix.Research_Cost>研究成本</Inglix.Research_Cost>
+	
+	<Inglix.Biosculpting_Research>生物塑形研究</Inglix.Biosculpting_Research>
+	<Inglix.Bioregeneration_Research>生物再生研究</Inglix.Bioregeneration_Research>
+	<Inglix.Require_HiTechBench>需要高科技研究台</Inglix.Require_HiTechBench>
+	<Inglix.Require_MultiAnalyzer>需要多功能分析儀</Inglix.Require_MultiAnalyzer>
+	
+	<Inglix.Cycle_Duration>循環持續時間</Inglix.Cycle_Duration>
+	<Inglix.Nutrition_Required>所需營養</Inglix.Nutrition_Required>
+	<Inglix.MedicineUltratech_Required>所需閃耀世界藥品</Inglix.MedicineUltratech_Required>
+	<Inglix.Age_Reversed>逆轉年齡</Inglix.Age_Reversed>
+	<Inglix.Mood_Duration>情緒持續時間</Inglix.Mood_Duration>
+	<Inglix.Mood_Effect>情緒效果</Inglix.Mood_Effect>
+	
+	<Inglix.Use_Quadrums>使用季度作為持續時間單位</Inglix.Use_Quadrums>
+	<Inglix.Use_Hours>使用小時作為持續時間單位</Inglix.Use_Hours>
+	
+	<Inglix.Apply_Custom_Values>套用自訂值</Inglix.Apply_Custom_Values>
+	<Inglix.Apply_Recommended_Values>套用建議值</Inglix.Apply_Recommended_Values>
+	<Inglix.Apply_Vanilla_Values>套用原版值</Inglix.Apply_Vanilla_Values>
+	
+	<Inglix.Biosculpter_Description>一個配備生物塑形液體注射器和控制系統的沉浸式艙體。它可以執行各種生物改造，包括逆齡和提供愉悅感。每個艙體會與使用者進行生物調校，其他人無法使用。生物調校會在{0}天後重置。超人類主義信徒相信，生物塑形艙在他們超越正常人類身體限制的追求中至關重要。</Inglix.Biosculpter_Description>
+	<Inglix.Biosculpter_Description_No_Biotuning>一個配備生物塑形液體注射器和控制系統的沉浸式艙體。它可以執行各種生物改造，包括逆齡和提供愉悅感。超人類主義信徒相信，生物塑形艙在他們超越正常人類身體限制的追求中至關重要。</Inglix.Biosculpter_Description_No_Biotuning>
+	
+	<BiosculpterAutoAgeReversalDescription>根據{PAWN_labelShort}的信仰，自動滿足{PAWN_possessive}在此艙體中進行逆齡治療的需求。{NEXTTREATMENT}</BiosculpterAutoAgeReversalDescription>
+	
+</LanguageData>
